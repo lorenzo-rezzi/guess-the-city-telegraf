@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "bot_source"
+    "url": "https://github.com/lorenzo-rezzi/guess-the-city-telegraf.git"
   },
   "author": "Lorenzo Rezzi",
   "license": "ISC",
   "dependencies": {
+    "better-sqlite3": "^7.0.1",
     "dotenv": "^8.2.0",
     "telegraf": "^3.38.0"
   }
