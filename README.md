@@ -18,7 +18,7 @@ CREATE TABLE "Questions" (
 Then when the user answers to that question it increments his score
 When the user answered to all the 10 questions the bot sends his score
 
-Admin
+Admin: 
 An admin can insert a new question, the image field must be a link to a jpeg or png image
 The Users DB has this structure
 IdUsers🔑(TEXT) | UserName(TEXT) | Admin(INTEGER)
